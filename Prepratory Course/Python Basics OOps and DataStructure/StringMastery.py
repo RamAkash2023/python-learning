@@ -1,7 +1,7 @@
 sample_list = ["nNorth West", "West", "West Bengal", "Bangladesh"]
 isWest = ['Yes' if 'West' in location else 'No' for location in sample_list]
 print(isWest)
-myString = "Satya"
+myString = "Akash"
 print(myString[::-1])
 currentYear = 2021
 
